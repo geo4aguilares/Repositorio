@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Ingenio": "Aguilares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.61773300170898,
+          -27.42655681098588
+        ]
+      }
+    }
+  ]
+}
